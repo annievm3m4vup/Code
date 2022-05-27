@@ -1,6 +1,7 @@
 # Code
+
 #0527
-Try to map industrial code: naics6 with sic4(sic87dd). (file: 0526_crosswalk.do)
+1. Try to map industrial code: naics6 with sic4(sic87dd). (file: 0526_crosswalk.do)
 Using David Dorn C1 and C2 to crosswalk. 
 However, it is a m:m merging task which might take few days to complete. (Pause to disaggregate #2) 
 
