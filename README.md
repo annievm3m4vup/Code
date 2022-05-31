@@ -1,5 +1,9 @@
 # Working Flow
 
+#0531
+1. Using imterpolate F1 to run the regressions: test whether the coefficients are close or not. 
+2. 
+
 #0527
 1. Try to map industrial code: naics6 with sic4(sic87dd). (file: 0526_crosswalk.do)
 Using David Dorn C1 and C2 to crosswalk. 
