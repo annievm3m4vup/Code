@@ -1,8 +1,13 @@
 # Working Flow
 
+#0601
+1. Generate many tables: all czone, top100 czone, top60 czone, top100 BC
+
+
 #0531
 1. Using imterpolate F1 to run the regressions: test whether the coefficients are close or not. 
-2. 
+2. Run the regressions and insert into draft. 
+
 
 #0527
 1. Try to map industrial code: naics6 with sic4(sic87dd). (file: 0526_crosswalk.do)
