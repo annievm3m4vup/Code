@@ -1,5 +1,8 @@
 # Working Flow
 
+#0602 
+1. Generate tables: top100 Sub
+
 #0601
 1. Generate many tables: all czone, top100 czone, top60 czone, top100 BC
 
