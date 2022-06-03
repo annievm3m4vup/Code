@@ -2,7 +2,7 @@
 
 #0603
 1. Construct replication F&S tables: type1-5 and type23
-
+2. Check David Dorn trade shock data 
 
 #0602 
 1. Generate tables: top100 Sub, top60 BC, top60 Sub
