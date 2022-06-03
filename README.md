@@ -1,7 +1,7 @@
 # Working Flow
 
 #0603
-1. Construct replication F&S tables 
+1. Construct replication F&S tables: type1-5 and type23
 
 
 #0602 
