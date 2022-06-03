@@ -1,5 +1,9 @@
 # Working Flow
 
+#0603
+1. Construct replication F&S tables 
+
+
 #0602 
 1. Generate tables: top100 Sub, top60 BC, top60 Sub
 2. Generate Bartik IV in commuting zone level
