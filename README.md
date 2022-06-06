@@ -1,5 +1,8 @@
 # Working Flow
 
+#0606
+1. Prepare 0607 meeting about Big Cities Project
+2. 
 #0603
 1. Construct replication F&S tables: type1-5 and type23
 2. Check David Dorn trade shock data 
