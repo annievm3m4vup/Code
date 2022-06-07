@@ -1,4 +1,6 @@
 # Working Flow
+#0607
+1. Read the do file to find out why the fiscal data are not similar. 
 
 #0606
 1. Prepare 0607 meeting about Big Cities Project
